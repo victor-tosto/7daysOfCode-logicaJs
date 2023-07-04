@@ -1,7 +1,7 @@
 <h1 align="center">Lógica de programação com JavaScript - 7 Days of Code</h1>
 
 <p align="center">
-  Desafio proposto pela Dev Rafa Ballerini no <a href="https://7daysofcode.io/">7 Days of Code, onde fizemos pequenos programas utilizando JavaScript e lógica de programação. Onde, durante 7 dias recebemos um e-mail com informações do que devia ser feito naquele dia.</a>
+  Desafio proposto pela Dev Rafa Ballerini no <a href="https://7daysofcode.io/">7 Days of Code</a>, onde fizemos pequenos programas utilizando JavaScript e lógica de programação. Onde, durante 7 dias recebemos um e-mail com informações do que devia ser feito naquele dia.</a>
   
 </p>
 
